@@ -1,4 +1,4 @@
-#这是一个小小的测试啊
+# 这是一个小小的测试啊
 
 
 **加粗噶**
@@ -10,11 +10,12 @@
 ![picture]( "hhh")
 
 
-[click me](http//:baidu.com)
+[click me](http://baidu.com)
 
 - list
   - 1
   - 2
   - 3
   
-#改一下这里hhh#
+~~改一下这里hhh~~
+*啊啊啊啊啊*  啊啊啊
